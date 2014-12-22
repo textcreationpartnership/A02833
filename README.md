@@ -35,11 +35,38 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An aduertiseme[nt] to the subjects of Scotland of the fearfull dangers threatned to Christian states
+BON. ACCORDInsignia Vrbis abredonie,
+1. TO THE MOST
+ROYALL, AND MIGHTIE
+MONARCH,
+CHARLES,
+BY THE GRACE OF GOD,
+KING OF GREAT BRITANE,
+FRANCE, and IRELAND,
+Defender of the Fayth.
+
+1. TO THE
+READER.
+
 #####Body#####
-An aduertiseme[nt] to the subjects of Scotland of the fearfull dangers threatned to Christian states
+
+1. AN
+ADVERTISEMENT
+To the Subjectes of SCOTLAND,
+Of the Dangers threatned to Christian States;
+And namelie, To GREAT BRITANE, by the
+Ambition of SPAYNE.
+
+1. AN HEROICKE SONG,
+In Prayses of the Light, most fitting for the
+Nightes Meditation.
+BY THE SAME AVTHOR.
+
 #####Back#####
-An aduertiseme[nt] to the subjects of Scotland of the fearfull dangers threatned to Christian states
+
+1. Index of the chiefe Things contained
+in this Treatise.
+
 **Types of content**
 
   * There are 330 **verse** lines!
